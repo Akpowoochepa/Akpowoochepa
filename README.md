@@ -8,7 +8,7 @@ Welcome to My website
 *[Youtube](https://www.youtube.com/ 
 *[Twitter](https://twitter.com/?lang=en)
 
-### A Code i have written- menu = {}
+# A Code i have written- menu = {}
 menu['1']= "Administration portal"
 menu['2']= "make a reservation"
 menu['3']= "close the application"
@@ -46,3 +46,6 @@ University of missiouri
 2. fried rice
 3. sushi
 4. bacon
+
+# Regards
+thank you for a lovely semester. the work was hard but thank you
