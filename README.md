@@ -31,4 +31,5 @@ while True:
 3.creativity
 4.decision Making
 
-# Github picture- 
+# Github picture- profile picture https://avatars.githubusercontent.com/u/83739818?s=400&u=34bf0f566321c8bbadc064a632cc02abcedd9bcb&v=4
+ 2nd picture- https://www.google.com/url?sa=i&url=https%3A%2F%2Fomnivorescookbook.com%2Fgrilled-chicken-wings-chinese-style%2F&psig=AOvVaw2vbZGRBsVUUxf-NN_H3JQc&ust=1620453780820000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCFh_PytvACFQAAAAAdAAAAABAP
