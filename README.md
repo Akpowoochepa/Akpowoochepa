@@ -3,5 +3,5 @@
 Welcome to My website
 
 My Hobbies - i spend lots of time on social media and some of my favorites websites are
-*[Instagram](https://https://www.instagram.com/)
+*[Instagram](https://www.instagram.com/
 
