@@ -1,16 +1,7 @@
-### Hi there 👋
+# Hello
+## I am akpowo and currently a student at the university of missouri columbia.
+Welcome to My website
 
-<!--
-**Akpowoochepa/Akpowoochepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Hobbies - i spend lots of time on social media and some of my favorites websites are
+*[Instagram](https://https://www.instagram.com/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my final project
-- 🌱 my favorite artist is travis scott
-- 👯 I’m looking to collaborate with cactus jack sometime in the future
-- 🤔 I’m looking for help with my computer science 
-- 💬 Ask me about my favorite food
-- 📫 How to reach me: my email is manny.babida@gmail.com
-- 😄 Pronouns: none
-- ⚡ Fun fact: My grandad had 37 kids
--->
