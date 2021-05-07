@@ -2,10 +2,10 @@
 ## I am akpowo and currently a student at the university of missouri columbia.
 Welcome to My website
 
-My Hobbies - i spend lots of time on social media and some of my favorites websites are
+# My Hobbies - i spend lots of time on social media and some of my favorites websites are
 *[Instagram](https://www.instagram.com/ *[Youtube](https://www.youtube.com/
 
-### Code i have written- menu = {}
+### A Code i have written- menu = {}
 menu['1']= "Administration portal"
 menu['2']= "make a reservation"
 menu['3']= "close the application"
@@ -24,4 +24,11 @@ while True:
                                 print "make"
                                 elif selection == '3':
                                     print "close"
-                                    
+                                                                        
+# Skills i have. 
+1.Communication
+2.responsibility 
+3.creativity
+4.decision Making
+
+# Github picture- 
