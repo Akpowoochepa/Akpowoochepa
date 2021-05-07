@@ -3,5 +3,25 @@
 Welcome to My website
 
 My Hobbies - i spend lots of time on social media and some of my favorites websites are
-*[Instagram](https://www.instagram.com/
+*[Instagram](https://www.instagram.com/ *[Youtube](https://www.youtube.com/
 
+### Code i have written- menu = {}
+menu['1']= "Administration portal"
+menu['2']= "make a reservation"
+menu['3']= "close the application"
+menu[ '4'] = "EXIT"
+while True:
+    options=menu.keys()
+    options.sort()
+    for entry in options:
+        print (entry, menu[entry]
+
+
+      Select=raw_input('please Select:")
+                     if selection == '1':
+                            print "administration"
+                            elif selection == '2':
+                                print "make"
+                                elif selection == '3':
+                                    print "close"
+                                    
