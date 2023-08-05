@@ -1,9 +1,9 @@
 ## Hello
-# I am akpowo and currently a student at the university of missouri columbia.
+# I am Akpowo and currently a student at the University of Missouri Columbia.
 Welcome to My website
 
 
-# ****My Hobbies - i spend lots of time on social media and some of my favorites websites are
+# ****My Hobbies - I spend lots of time on social media and some of my favorites websites are
 *[Instagram](https://www.instagram.com/ 
 *[Youtube](https://www.youtube.com/ 
 *[Twitter](https://twitter.com/?lang=en)
