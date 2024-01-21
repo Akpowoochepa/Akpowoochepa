@@ -1,5 +1,5 @@
 ## Hello
-# I am Akpowo and currently a student at the University of Missouri Columbia.
+# I am Akpowo and currently looking for a job
 Welcome to My website
 
 
