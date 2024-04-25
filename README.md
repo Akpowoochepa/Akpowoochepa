@@ -1,5 +1,5 @@
 ## Hello
-# I am Akpowo and currently looking for a job
+# I am Akpowo 
 Welcome to My website
 
 
